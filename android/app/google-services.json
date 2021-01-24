@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359111724752",
+    "project_id": "frooyd-4d694",
+    "storage_bucket": "frooyd-4d694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359111724752:android:74982e0753e2d9482c98d5",
+        "android_client_info": {
+          "package_name": "com.frooyd.frooydapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359111724752-nkv5f6htsnlvj703u1o2neo1q460un93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1mS5bVO0xkBAm052TZt1VJ6BSE-GOsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359111724752-nkv5f6htsnlvj703u1o2neo1q460un93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
